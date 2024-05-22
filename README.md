@@ -38,5 +38,6 @@ This part highlights the works that needs to be completed on the project
     pip3 install random
     pip3 install webbrowser
     pip3 install quantomrandom
+    python3 ./main.py
 
 if you're planning to use run the script in a non Virtual Environment add `--break-system-packages` Keep in mind this is not recommended as it may cause the system to become unstable.
