@@ -10,6 +10,20 @@
  3. A registered WhatsApp Account to send OTP from.
 
 
+# Configuring the Environment:
+
+
+
+## In Debian based Operating System
+
+    sudo apt install python3
+    pip3 install -r requirments.txt
+    python3 ./main.py
+
+if you're planning to use run the script in a non Virtual Environment add `--break-system-packages` Keep in mind this is not recommended as it may cause the system to become unstable.
+
+
+
 
 #  To Be Done:
 This part highlights the works that needs to be completed on the project
@@ -27,14 +41,3 @@ This part highlights the works that needs to be completed on the project
 
 
 
-# Configuring the Environment:
-
-
-
-## In Debian based Operating System
-
-    sudo apt install python3
-    pip3 install -r requirments.txt
-    python3 ./main.py
-
-if you're planning to use run the script in a non Virtual Environment add `--break-system-packages` Keep in mind this is not recommended as it may cause the system to become unstable.
