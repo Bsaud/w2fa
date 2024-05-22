@@ -19,11 +19,11 @@ This part highlights the works that needs to be completed on the project
 | Creation of OTP push function through WhatsApp API | Done |
 | Creation of OTP Check Function | Done |
 | Adapt Selenium Library instead of WebBrowser  | Ongoing   |
-| Adding Function invoke for after OTP Verification | Ongoing |
-| Add Hashing Function for Exchanging Hash of OTP For Verification process | Yet to Be Done |
-| Add Extra Security layer by hash salting | Yet To Be Done |
+| Adding Function invoke for after OTP Verification | Done |
+| Add Hashing Function for Exchanging Hash of OTP For Verification process | To Be Tested |
+| Add Extra Security layer by hash salting | Done |
 | Add Argument passing Functionality | Yet To Be Done |
-
+| Use of an FIPS140-2 Compliant true random generator for OTP | Done |
 
 
 
@@ -37,5 +37,6 @@ This part highlights the works that needs to be completed on the project
     pip3 install PyAutoGUI
     pip3 install random
     pip3 install webbrowser
+    pip3 install quantomrandom
 
 if you're planning to use run the script in a non Virtual Environment add `--break-system-packages` Keep in mind this is not recommended as it may cause the system to become unstable.
