@@ -35,7 +35,6 @@ This part highlights the works that needs to be completed on the project
 
     sudo apt install python3
     pip3 install PyAutoGUI
-    pip3 install random
     pip3 install webbrowser
     pip3 install quantomrandom
     python3 ./main.py
