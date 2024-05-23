@@ -37,7 +37,7 @@ This part highlights the works that needs to be completed on the project
 | Add Hashing Function for Exchanging Hash of OTP For Verification process | To Be Tested |
 | Add Extra Security layer by hash salting | Done |
 | Add Argument passing Functionality | Yet To Be Done |
-| FIPS140-2 Compliance Adaption | Done |
+| FIPS140-2 Compliance | Done |
 
 
 
